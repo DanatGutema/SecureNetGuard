@@ -1,5 +1,6 @@
 # SecureNetGuard
 📌 Project: Detection of Fake URLs and Malware Prevention using Machine Learning (SecureNetGuard)
+
 In an age of increasing cyber threats, phishing attacks remain one of the most common and dangerous risks. This project focuses on building a machine learning–based application to detect phishing URLs and provide real-time protection against malicious links.
 
 🔍 Key Features:
