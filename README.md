@@ -19,6 +19,6 @@ Includes system architecture, use case, class, and sequence diagrams
 Future enhancements include NLP-based phishing detection, behavioral analytics, and blockchain integration
 
 ⚙️ Tools & Technologies:
-Python · Pandas · Scikit-learn · Random Forest · Decision Tree · Kaggle Dataset · VS Code
+Python · Pandas · Scikit-learn · Random Forest · Decision Tree · Kaggle Dataset · Flask · Front-End Development Tools(HTML, CSS, JavaScript) · VS Code
 
 📺 https://www.youtube.com/watch?v=l6oTkQ_MWwA 
